@@ -1,7 +1,7 @@
 {
-  "name": "myLogin",
+  "name": "simple-login",
   "version": "1.0.0",
-  "description": "myLogin: An Ionic project",
+  "description": "simple-login: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^0.7.1",
